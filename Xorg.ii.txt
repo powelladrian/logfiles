@@ -1,0 +1,14 @@
+[    65.035] (II) intel(0): Creating default Display subsection in Screen section
+[    65.036] (II) intel(0): Output eDP1 has no monitor section
+[    65.036] (II) intel(0): Enabled output eDP1
+[    65.037] (II) UnloadModule: "modesetting"
+[    65.037] (II) Unloading modesetting
+[    65.038] (II) intel(0): Textured video not supported on this hardware or backend
+[    65.038] (II) intel(0): direct rendering: DRI2 DRI3 enabled
+[    65.038] (II) intel(0): hardware support for Present enabled
+[    65.113] (II) intel(0): switch to mode 2880x1800@90.0 on eDP1 using pipe 0, position (0, 0), rotation normal, reflection none
+[    65.128] (II) intel(0): Setting screen physical size to 762 x 476
+[    67.042] (II) intel(0): EDID vendor "SDC", prod id 16722
+[    67.042] (II) intel(0): Printing DDC gathered Modelines:
+[    67.042] (II) intel(0): Modeline "2880x1800"x0.0  500.84  2880 2888 2920 2960  1800 1808 1816 1880 +hsync -vsync (169.2 kHz eP)
+[    67.042] (II) intel(0): Modeline "2880x1800"x0.0  500.84  2880 2888 2920 2960  1800 1808 1816 2820 +hsync -vsync (169.2 kHz e)
