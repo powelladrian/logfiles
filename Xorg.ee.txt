@@ -1,0 +1,6 @@
+
+[    65.032] (EE) Failed to load module "fbdev" (module does not exist, 0)
+[    65.034] (EE) open /dev/dri/card0: No such file or directory
+[    65.040] (EE) AIGLX error: dlopen of /usr/lib/dri/i965_dri.so failed (/usr/lib/dri/i965_dri.so: cannot open shared object file: No such file or directory)
+[    65.040] (EE) AIGLX error: unable to load driver i965
+[    65.113] (EE) intel(0): Failed to submit rendering commands (Invalid argument), disabling acceleration.
