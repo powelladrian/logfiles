@@ -1,0 +1,3 @@
+joshi        685  0.0  0.0   4052  2312 tty1     S+   13:46   0:00 xinit /home/joshi/.xinitrc -- /etc/X11/xinit/xserverrc :0 vt1 -keeptty -auth /tmp/serverauth.oPU7MlyGbf
+root         686 24.0  0.9 1567600 313500 tty1   Sl   13:46   0:30 /usr/lib/Xorg -nolisten tcp :0 vt1 -keeptty -auth /tmp/serverauth.oPU7MlyGbf
+joshi        718  0.0  0.0   6640  4172 pts/0    S+   13:49   0:00 grep --color=auto X

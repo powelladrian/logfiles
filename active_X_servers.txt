@@ -1,7 +1,0 @@
-joshi       1826  0.0  0.0   4052  2312 tty1     S+   13:05   0:00 xinit /home/joshi/.xinitrc -- /etc/X11/xinit/xserverrc :0 vt1 -keeptty -auth /tmp/serverauth.9IaK2TTGws
-root        1827  1.1  0.5 586924 180904 tty1    Sl   13:05   0:26 /usr/lib/Xorg -nolisten tcp :0 vt1 -keeptty -auth /tmp/serverauth.9IaK2TTGws
-joshi       2623  0.0  0.0   4052  2312 tty3     S+   13:27   0:00 xinit /home/joshi/.xinitrc -- /etc/X11/xinit/xserverrc :1 vt3 -keeptty -auth /tmp/serverauth.scLl9V9hXW
-root        2624  0.6  0.5 579084 180088 tty3    Sl   13:27   0:05 /usr/lib/Xorg -nolisten tcp :1 vt3 -keeptty -auth /tmp/serverauth.scLl9V9hXW
-joshi       2735  0.0  0.0   4052  2168 tty2     S+   13:31   0:00 xinit /home/joshi/.xinitrc -- /etc/X11/xinit/xserverrc :2 vt2 -keeptty -auth /tmp/serverauth.0Q3TA0I7th
-root        2736  2.1  1.1 1568000 385644 tty2   Sl   13:31   0:16 /usr/lib/Xorg -nolisten tcp :2 vt2 -keeptty -auth /tmp/serverauth.0Q3TA0I7th
-joshi       2894  0.0  0.0   6640  4280 pts/0    S+   13:43   0:00 grep --color=auto X
