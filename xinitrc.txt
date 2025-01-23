@@ -5,7 +5,7 @@ xrandr --output eDP1 --mode 1920x1200 --scale 1.25x1.25
 
 # exec prgms
 picom &
+dmenu_run &
 exec dwm
-exec dmenu
 
 
